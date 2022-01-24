@@ -8,8 +8,6 @@ class MainPage extends StatefulWidget {
   _MainPageState createState() => _MainPageState();
 }
 
-//hello
-
 class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
