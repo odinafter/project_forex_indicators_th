@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:forex_indicators_th/my_first_page.dart';
+import 'package:forex_indicators_th/page/main_page.dart';
 import 'package:forex_indicators_th/utility/palette.dart';
 
 void main() {
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         ),
         primarySwatch: Palette.mainColor,
       ),
-      home: const MyFirstPage(),
+      home: const MainPage(),
     );
   }
 }

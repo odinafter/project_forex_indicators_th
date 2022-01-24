@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/forex_indicators_th/BuildConfig.java
+ com.example.forex_indicators_th.BuildConfig
